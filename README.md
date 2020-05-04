@@ -1,5 +1,5 @@
-# team38: PrepMe
-##[Heroku Link](https://prep-me.herokuapp.com/)
+# PrepMe
+[Heroku Link](https://prep-me.herokuapp.com/)
 
 ## User Interactions
 First, login using the following credentials:\
